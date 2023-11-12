@@ -1,3 +1,6 @@
+# IntelliGrade
+A powerful auto-grading assistant designed to simplify the grading workflow. Graders can input assignment descriptions, grading criteria, and upload files for assessment. With just a click, an artificial intelligence engine takes over, providing graded results for each student, detailed feedback, and insightful class performance statistics.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
