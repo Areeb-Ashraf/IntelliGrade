@@ -3,7 +3,7 @@ import { useEffect, useRef } from 'react';
 import Chart from 'chart.js/auto';
 import OpenAI from 'openai';
 
-const openai = new OpenAI({ apiKey: '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', dangerouslyAllowBrowser: true });
+const openai = new OpenAI({ apiKey: 'Add your API KEY here', dangerouslyAllowBrowser: true });
 
 function App() {
   const [graderName, setGraderName] = useState('');
